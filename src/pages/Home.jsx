@@ -20,11 +20,11 @@ const Home = ({ className = '' }) => (
                         <p className="hero_credit">
                             developed by{' '}
                             <a
-                                href="https://tonmoydeb.com"
+                                href="https://abhaypp.com"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                @tonmoydeb
+                                Paras
                             </a>
                         </p>
                     </div>
